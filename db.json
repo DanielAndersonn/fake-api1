@@ -1,0 +1,213 @@
+{
+    "Empresa":[
+
+     {
+       "id":"Daniel",
+       "Setor":"Ti",
+       "Cargo":"Progamador.jr",
+       "Salario":"5.000 ",
+       "Contato":"(92) 908966764 ",
+       " Email":"daniel@hotmail.com",
+       "Endereço":"rua x numero 0  bairro rendenção"
+
+
+     },
+
+     {
+        "id":"Gabriela",
+        "Setor":"Ti",
+        "Cargo":"Progamador.sr",
+        "Salario":"8.000 ",
+        "Contato":"(92) 90896634464 ",
+        " Email":"gabriela@hotmail.com",
+        "Endereço":"rua y numero 4  bairro gloria "
+ 
+      },
+
+     {
+        "id":"Giovanna",
+        "Setor":"Ti",
+        "Cargo":"Progamador.pl",
+        "Salario":"15.000 ",
+        "Contato":"(92) 90896809",
+        " Email":"giovana@hotmail.com",
+        "Endereço":"rua c numero 0  bairro matinha"
+ 
+ 
+      },
+
+     {
+        "id":"jubileu",
+        "Setor":"Ti",
+        "Cargo":"Estagiario",
+        "Salario":"1.200 ",
+        "Contato":"(92) 90896634464 ",
+        " Email":"julibileu@hotmail.com",
+        "Endereço":"rua x numero 0  bairro esquina da esquerda "
+ 
+      },
+
+     {
+        "id": "TIÃO",
+        "Setor":"Ti",
+        "Cargo":"CTO",
+        "Salario":"'100.000 ",
+        "Contato":"(92) 90896634464 ",
+        " Email":"tião@hotmail.com",
+        "Endereço":"rua x numero 0  bairro roça " 
+ 
+      },
+
+      {
+        "id": "Tonia",
+        "Setor":"Vendas",
+        "Cargo":"Menor aprendiz ",
+        "Salario":"'600,00 ",
+        "Contato":"(92) 908966546 ",
+        " Email":"tonia@hotmail.com",
+        "Endereço":"rua x numero 0  bairro das graças  " 
+ 
+      },
+      {
+        "id": "Tania",
+        "Setor":"Vendas",
+        "Cargo":"Menor aprendiz ",
+        "Salario":"'600,00 ",
+        "Contato":"(92) 90896346 ",
+        " Email":"tania@hotmail.com",
+        "Endereço":"rua x numero 0  bairro gratidão  " 
+ 
+      },
+
+      {
+        "id": "Tenia",
+        "Setor":"Vendas",
+        "Cargo":"Vendedora.jr ",
+        "Salario":"'1.600,00 ",
+        "Contato":"(92) 3490896346 ",
+        " Email":"tenia@hotmail.com",
+        "Endereço":"rua x numero 0  bairro eldorado " 
+ 
+      },
+
+      {
+        "id": "Telma",
+        "Setor":"Vendas",
+        "Cargo":"Vendedora.pl ",
+        "Salario":"'5.600,00 ",
+        "Contato":"(92) 3490896346 ",
+        " Email":"telma@hotmail.com",
+        "Endereço":"rua x numero 0  bairro eldorado " 
+ 
+      },
+    
+      {
+        "id": "Tenise",
+        "Setor":"Vendas",
+        "Cargo":"Vendedora.sr ",
+        "Salario":"'15.600,00 ",
+        "Contato":"(92)3463445349089 ",
+        " Email":"tenise@hotmail.com",
+        "Endereço":"rua x numero 0  bairro eldorado " 
+ 
+      },
+
+      {
+        "id": "Alencar",
+        "Setor":"Vendas",
+        "Cargo":"Gerente",
+        "Salario":"'30.600,00 ",
+        "Contato":"(92) 6345645349089 ",
+        " Email":"alencar@hotmail.com",
+        "Endereço":"rua x numero 0  bairro eldorado " 
+ 
+      },
+      {
+        "id": "Tiago",
+        "Setor":"Markethin",
+        "Cargo":"Markethi.jr ",
+        "Salario":"'10.600,00 ",
+        "Contato":"(92) 346346345349089 ",
+        " Email":"Tiago@hotmail.com",
+        "Endereço":"rua x numero 0  bairro coroado " 
+ 
+      },
+
+      {
+        "id": " Lucas Alencar",
+        "Setor":"Markething.pl",
+        "Cargo":"Gerente",
+        "Salario":"'30.600,00 ",
+        "Contato":"(92) 3563445349089 ",
+        " Email":"lucas@hotmail.com",
+        "Endereço":"rua x numero 0  bairro coroado " 
+ 
+      },
+      {
+        "id": "Pedro",
+        "Setor":"Vendas",
+        "Cargo":"Martkething.sr ",
+        "Salario":"'15.600,00 ",
+        "Contato":"(92) 543645349089 ",
+        " Email":"pedro@hotmail.com",
+        "Endereço":"rua x numero 0  bairro centro " 
+ 
+      },
+
+      {
+        "id": "Gloria",
+        "Setor":"Martkething",
+        "Cargo":"Gerente",
+        "Salario":"'130.600,00 ",
+        "Contato":"(92) 346345349089 ",
+        " Email":"tenia@hotmail.com",
+        "Endereço":"rua x numero 0  bairro centro" 
+ 
+      },
+
+
+     {"id": "Carlos",
+      "Setor":"Adminsitrativo ",
+      "Cargo":"gerente ",
+      "Salario":"'15.600,00 ",
+      "Contato":"(92) 253459089 ",
+      " Email":"CARLOS@hotmail.com",
+      "Endereço":"rua x numero 0  bairro centro " 
+
+    },
+
+    {
+      "id": "Glenda",
+      "Setor":"Admisnitrativo",
+      "Cargo":"Gerente",
+      "Salario":"'30.600,00 ",
+      "Contato":"(92) 345349089 ",
+      " Email":"glenda@hotmail.com",
+      "Endereço":"rua x numero 0  bairro centro" 
+
+    },
+
+    {
+      "id": "Maria",
+      "Setor":"Admisnitrativ",
+      "Cargo":"CEO",
+      "Salario":"'130.600,00 ",
+      "Contato":"(92) 345349089 ",
+      " Email":"glenda@hotmail.com",
+      "Endereço":"rua x numero 0  bairro centro" 
+
+    },
+    {
+      "id": "Glenda",
+      "Setor":"Admisnitrativo",
+      "Cargo":"CEO",
+      "Salario":"'130.600,00 ",
+      "Contato":"(92) 345349089 ",
+      " Email":"glenda@hotmail.com",
+      "Endereço":"rua x numero 0  bairro centro" 
+
+    }
+    
+  ]
+
+}
